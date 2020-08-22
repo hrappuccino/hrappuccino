@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](http://qiita.com/mikkame)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hrappuccino/posts.svg)](http://qiita.com/hrappuccino)
 # My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/mikkame)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hrappuccino/contributions.svg)](http://qiita.com/hrappuccino)
 # My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/mikkame)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/hrappuccino/followers.svg)](http://qiita.com/hrappuccino)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hrappuccino&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hrappuccino)
